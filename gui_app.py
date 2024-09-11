@@ -164,11 +164,11 @@ def first_page():
 
     description_text = tk.Label(root,
                                 text= "Chaos Theory:\n\n"
-
-"Chaos theory is a branch of mathematics that studies systems that are highly sensitive to initial conditions. "
-"Small changes in the starting state of a chaotic system can lead to vastly different outcomes, "
-"which is often referred to as the 'butterfly effect.' "
-"These systems, though appearing random, follow underlying patterns and can be described by complex equations.\n\n"
+                                      "Chaos theory studies how certain systems can behave unpredictably."
+                                      "It deals with how small changes in the initial conditions of a system can lead to drastically different outcomes."
+                                      " A famous example is Lorenz's 'butterfly effect', which suggests that something as small as a butterfly flapping its wings could eventually " 
+                                     "cause a storm elsewhere. In chaos theory, even tiny changes in a system's starting state can have a significant impact on the outcome,"
+                                    " making long-term predictions difficult \n\n"
       
 "About this Application:\n\n"
 "This application lets you explore the fascinating world of chaos theory by generating various types of chaotic attractor images."
